@@ -1,6 +1,5 @@
 ### Hello, welcome!!!!
-### My name is Rafael Morgado 
-### I'm a physicist and data scientist 👋👋
+### My name is Rafael Morgado  👋👋
 
 - 🔭 I'm currently working with data analysis and construction of predictive models for prognosis of medium voltage insulated cables.
 - 🌱 I’m currently learning different ML applications
