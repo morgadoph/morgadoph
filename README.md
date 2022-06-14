@@ -1,10 +1,4 @@
 ### Hello, welcome!!!!
-### My name is Rafael Morgado  👋👋
-
-- 🔭 I'm currently working with data analysis and construction of predictive models for prognosis of medium voltage insulated cables.
-- 🌱 I’m currently learning different ML applications
-- 👯 I’m looking to collaborate on AI and high-tech projects
-- 📫 How to reach me: My email is morgadoph@gmail.com
 
 <div align="left">
   <a href="https://github.com/morgadoph">
