@@ -6,10 +6,7 @@
 - 👯 I’m looking to collaborate on AI and high-tech projects
 - 📫 How to reach me: My email is morgadoph@gmail.com
 
-<div align="left">
-  <a href="https://github.com/morgadoph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morgadoph&show_icons=true&theme=clean&include_all_commits=true&count_private=true"/
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
